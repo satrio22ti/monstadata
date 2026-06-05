@@ -1,0 +1,42 @@
+{
+  "manga_id": "dragonslayer-peerless-regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "수룡왕의 회귀, The Return of the Water Dragon King",
+  "status": "Ongoing",
+  "author": "Kkongkki",
+  "artist": "JHS Studio",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Shounen"
+  ],
+  "type": "Manhwa",
+  "release_year": 2024,
+  "rating": 4.8,
+  "synopsis": "Martial god yang mengalahkan Raja Naga Air, kembali ke masa lalu. Setelah kehilangan segalanya dalam pertempuran terakhir, ia mendapat kesempatan kedua untuk memperbaiki kesalahannya dan menjadi yang terkuat sejak awal untuk mencegah tragedi masa depan.",
+  "cover_url": "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "chapter_title": "Regresi Sang Pembunuh Naga",
+      "raw_image_links": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch001/01.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch001/02.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch001/03.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch001/04.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch001/05.jpg"
+      ]
+    },
+    {
+      "chapter_number": 2,
+      "chapter_title": "Awal yang Baru",
+      "raw_image_links": [
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch002/01.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch002/02.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch002/03.jpg",
+        "https://raw.githubusercontent.com/username/monstacomic-assets/main/dragonslayer-peerless-regression/ch002/04.jpg"
+      ]
+    }
+  ]
+}
